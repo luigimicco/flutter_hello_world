@@ -1,6 +1,6 @@
-# flutter_hello_world
+# Hello World 
 
-A simple Flutter project.
+A classi Hello World Flutter project.
 
 ![](/screenshots/hello_world.png)
 

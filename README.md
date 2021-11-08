@@ -1,6 +1,6 @@
 # Hello World 
 
-A classi Hello World Flutter project.
+A classic Hello World project for Flutter.
 
 ![](/screenshots/hello_world.png)
 
